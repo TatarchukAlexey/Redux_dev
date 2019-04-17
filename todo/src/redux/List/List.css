@@ -1,0 +1,30 @@
+li{
+    height: 150px;
+    width: 60px;
+    border: 1px solid #000;
+    list-style: none;
+    margin-left: 1%;
+}
+span{
+    display: block;
+    font-size: 9px;
+    font-weight: 600;
+
+}
+
+ul{
+    display: flex;
+
+}
+.btt{
+    width: 50%;
+  font-size: 9px;
+  margin: 0 auto;
+  
+  
+}
+li{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
